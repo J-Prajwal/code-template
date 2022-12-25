@@ -1,5 +1,5 @@
 {
-  "name": "mern-template",
+  "name": "create-starter-templates",
   "version": "1.0.0",
   "description": "",
   "main": "bin/cli.js",
@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "mern-template": "bin/cli.js"
+    "create-starter-templates": "bin/cli.js"
   },
   "author": "",
   "license": "MIT"
