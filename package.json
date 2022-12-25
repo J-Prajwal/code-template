@@ -1,0 +1,14 @@
+{
+  "name": "code-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bin/cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "code-template": "bin/cli.js"
+  },
+  "author": "",
+  "license": "MIT"
+}
